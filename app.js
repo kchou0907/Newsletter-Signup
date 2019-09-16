@@ -1,9 +1,4 @@
 //jshint esversion: 6
-//mailchimp api key:
-//856aed57af752643c9381ab90897e191-us4
-
-//mailchimp audience id:
-//944c44c93f
 
 const express = require("express");
 const bodyParser = require("body-parser");
