@@ -1,4 +1,5 @@
 //jshint esversion: 6
+//authorization key is fake; generate new mailchimp api key to use
 
 const express = require("express");
 const bodyParser = require("body-parser");
